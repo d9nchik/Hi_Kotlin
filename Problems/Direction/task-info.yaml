@@ -11,6 +11,10 @@ files:
         // write your code here
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/4630
+feedback_link: https://hyperskill.org/learn/step/4604
 status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4604">JetBrains
+    Academy</a></html>
+  time: Sat, 01 Aug 2020 17:25:50 UTC
 record: -1
