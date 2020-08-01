@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/Problems/Digits or not/out/
+/Problems/Digits or not/out/production/classes/
+/Problems/Initializing an array/out/
+/Problems/Initializing an array/out/production/classes/
+/Problems/Initializing an array of longs/out/
+/Problems/Initializing an array of longs/out/production/classes/
+/Problems/N-th symbol/out/
+/Problems/N-th symbol/out/production/classes/
+/Problems/Within both ranges/out/
+/Problems/Within both ranges/out/production/classes/
