@@ -14,9 +14,11 @@
             <option value="$PROJECT_DIR$/Problems/A capital letter or a digit" />
             <option value="$PROJECT_DIR$/Problems/A simple calculator" />
             <option value="$PROJECT_DIR$/Problems/Are the numbers different?" />
+            <option value="$PROJECT_DIR$/Problems/Balance checker" />
             <option value="$PROJECT_DIR$/Problems/Boxes" />
             <option value="$PROJECT_DIR$/Problems/Check the numbers" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
+            <option value="$PROJECT_DIR$/Problems/Collatz conjecture" />
             <option value="$PROJECT_DIR$/Problems/Compare Latin letters" />
             <option value="$PROJECT_DIR$/Problems/Count the numbers" />
             <option value="$PROJECT_DIR$/Problems/Counting positive numbers" />
@@ -57,6 +59,7 @@
             <option value="$PROJECT_DIR$/Problems/The max of three numbers" />
             <option value="$PROJECT_DIR$/Problems/The result of a game in Tic-Tac-Toe" />
             <option value="$PROJECT_DIR$/Problems/The sum of digits" />
+            <option value="$PROJECT_DIR$/Problems/The sum of elements" />
             <option value="$PROJECT_DIR$/Problems/Uncomment a line" />
             <option value="$PROJECT_DIR$/Problems/Within a range" />
             <option value="$PROJECT_DIR$/Problems/Within both ranges" />
