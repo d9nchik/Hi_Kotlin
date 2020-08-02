@@ -54,3 +54,6 @@ content:
 - First digit
 - Beyond the word
 - Unique characters
+- Cutting out the middle of a string
+- Compression algorithm
+- Parse url

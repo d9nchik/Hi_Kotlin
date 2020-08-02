@@ -21,8 +21,10 @@
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Collatz conjecture" />
             <option value="$PROJECT_DIR$/Problems/Compare Latin letters" />
+            <option value="$PROJECT_DIR$/Problems/Compression algorithm" />
             <option value="$PROJECT_DIR$/Problems/Count the numbers" />
             <option value="$PROJECT_DIR$/Problems/Counting positive numbers" />
+            <option value="$PROJECT_DIR$/Problems/Cutting out the middle of a string" />
             <option value="$PROJECT_DIR$/Problems/Date and time formatting" />
             <option value="$PROJECT_DIR$/Problems/Desks" />
             <option value="$PROJECT_DIR$/Problems/Digits or not" />
@@ -49,6 +51,7 @@
             <option value="$PROJECT_DIR$/Problems/Kotlin x5" />
             <option value="$PROJECT_DIR$/Problems/Max of four numbers" />
             <option value="$PROJECT_DIR$/Problems/N-th symbol" />
+            <option value="$PROJECT_DIR$/Problems/Parse url" />
             <option value="$PROJECT_DIR$/Problems/Positive, Negative or Zero" />
             <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
             <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
