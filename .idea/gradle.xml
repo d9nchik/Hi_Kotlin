@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/Problems/Collatz conjecture" />
             <option value="$PROJECT_DIR$/Problems/Compare Latin letters" />
             <option value="$PROJECT_DIR$/Problems/Compression algorithm" />
+            <option value="$PROJECT_DIR$/Problems/Concatenate 3 strings with separator" />
             <option value="$PROJECT_DIR$/Problems/Count the numbers" />
             <option value="$PROJECT_DIR$/Problems/Counting positive numbers" />
             <option value="$PROJECT_DIR$/Problems/Cutting out the middle of a string" />
@@ -39,6 +40,8 @@
             <option value="$PROJECT_DIR$/Problems/Four numbers" />
             <option value="$PROJECT_DIR$/Problems/Fractional part" />
             <option value="$PROJECT_DIR$/Problems/From 0 to 9" />
+            <option value="$PROJECT_DIR$/Problems/Get last digit" />
+            <option value="$PROJECT_DIR$/Problems/Gratuity" />
             <option value="$PROJECT_DIR$/Problems/Groundhogs at the party" />
             <option value="$PROJECT_DIR$/Problems/Harry Potter" />
             <option value="$PROJECT_DIR$/Problems/Hello, Kotlin" />
@@ -52,13 +55,16 @@
             <option value="$PROJECT_DIR$/Problems/Max of four numbers" />
             <option value="$PROJECT_DIR$/Problems/Most common" />
             <option value="$PROJECT_DIR$/Problems/N-th symbol" />
+            <option value="$PROJECT_DIR$/Problems/Number squared" />
             <option value="$PROJECT_DIR$/Problems/Parse url" />
             <option value="$PROJECT_DIR$/Problems/Positive, Negative or Zero" />
             <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
             <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
             <option value="$PROJECT_DIR$/Problems/Quadratic equation" />
             <option value="$PROJECT_DIR$/Problems/Read and print" />
+            <option value="$PROJECT_DIR$/Problems/Right equation" />
             <option value="$PROJECT_DIR$/Problems/Size of parts" />
+            <option value="$PROJECT_DIR$/Problems/Summation" />
             <option value="$PROJECT_DIR$/Problems/The information about a person" />
             <option value="$PROJECT_DIR$/Problems/The last digit of a number" />
             <option value="$PROJECT_DIR$/Problems/The longest sequence" />
