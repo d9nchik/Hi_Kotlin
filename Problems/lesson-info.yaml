@@ -67,3 +67,9 @@ content:
 - URL
 - Perimeter
 - Car speed
+- Playing with time
+- Handle string exception
+- Handle arithmetic exception
+- Handle number format exception
+- Function composition
+- First predicate
