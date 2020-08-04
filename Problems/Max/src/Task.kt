@@ -1,0 +1,1 @@
+val lambda: (Int, Int) -> Int = { e1: Int, e2: Int -> e1.coerceAtLeast(e2) }
