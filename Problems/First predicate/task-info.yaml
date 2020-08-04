@@ -5,5 +5,9 @@ files:
   text: '// TODO: provide isEven function here'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/5998
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/5998">JetBrains
+    Academy</a></html>
+  time: Tue, 04 Aug 2020 17:54:44 UTC
 record: -1

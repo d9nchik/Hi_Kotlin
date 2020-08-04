@@ -73,3 +73,4 @@ content:
 - Handle number format exception
 - Function composition
 - First predicate
+- Function generator
