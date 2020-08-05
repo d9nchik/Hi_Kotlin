@@ -8,11 +8,9 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/9698
-status: Unchecked
+status: Solved
 feedback:
-  message: |-
-    Connection to server was interrupted
-
-    connect timed out
-  time: Wed, 05 Aug 2020 10:03:58 UTC
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9698">JetBrains
+    Academy</a></html>
+  time: Wed, 05 Aug 2020 10:05:16 UTC
 record: -1
