@@ -1,3 +1,3 @@
 fun getLength(input: String?): Int {
-    return 0
+    return input?.length ?: -1
 }
