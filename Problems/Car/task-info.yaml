@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    class Car(val make: String, val year: Int) {
+
+        var speed: Int = 0
+
+        // write the methods here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6371
+status: Unchecked
+feedback:
+  message: |-
+    Connection to server was interrupted
+
+    timeout
+  time: Thu, 06 Aug 2020 17:41:55 UTC
+record: -1

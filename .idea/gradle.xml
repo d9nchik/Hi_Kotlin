@@ -14,10 +14,12 @@
             <option value="$PROJECT_DIR$/Problems/&quot;Not&quot; predicate" />
             <option value="$PROJECT_DIR$/Problems/A capital letter or a digit" />
             <option value="$PROJECT_DIR$/Problems/A simple calculator" />
+            <option value="$PROJECT_DIR$/Problems/Application as a class" />
             <option value="$PROJECT_DIR$/Problems/Are the numbers different?" />
             <option value="$PROJECT_DIR$/Problems/Balance checker" />
             <option value="$PROJECT_DIR$/Problems/Beyond the word" />
             <option value="$PROJECT_DIR$/Problems/Boxes" />
+            <option value="$PROJECT_DIR$/Problems/Car" />
             <option value="$PROJECT_DIR$/Problems/Car speed" />
             <option value="$PROJECT_DIR$/Problems/Check length" />
             <option value="$PROJECT_DIR$/Problems/Check the numbers" />
@@ -45,6 +47,7 @@
             <option value="$PROJECT_DIR$/Problems/Fizz Buzz (1)" />
             <option value="$PROJECT_DIR$/Problems/Four numbers" />
             <option value="$PROJECT_DIR$/Problems/Fractional part" />
+            <option value="$PROJECT_DIR$/Problems/Fridge" />
             <option value="$PROJECT_DIR$/Problems/From 0 to 9" />
             <option value="$PROJECT_DIR$/Problems/Function composition" />
             <option value="$PROJECT_DIR$/Problems/Function composition (1)" />
@@ -93,6 +96,7 @@
             <option value="$PROJECT_DIR$/Problems/URL" />
             <option value="$PROJECT_DIR$/Problems/Uncomment a line" />
             <option value="$PROJECT_DIR$/Problems/Unique characters" />
+            <option value="$PROJECT_DIR$/Problems/Volume of a cube" />
             <option value="$PROJECT_DIR$/Problems/Within a range" />
             <option value="$PROJECT_DIR$/Problems/Within both ranges" />
             <option value="$PROJECT_DIR$/util" />
