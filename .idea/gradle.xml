@@ -18,6 +18,8 @@
             <option value="$PROJECT_DIR$/Problems/Are the numbers different?" />
             <option value="$PROJECT_DIR$/Problems/Balance checker" />
             <option value="$PROJECT_DIR$/Problems/Beyond the word" />
+            <option value="$PROJECT_DIR$/Problems/Board game basics  Game" />
+            <option value="$PROJECT_DIR$/Problems/Board game basics  Player" />
             <option value="$PROJECT_DIR$/Problems/Boxes" />
             <option value="$PROJECT_DIR$/Problems/Car" />
             <option value="$PROJECT_DIR$/Problems/Car speed" />
@@ -27,6 +29,7 @@
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Closed case" />
             <option value="$PROJECT_DIR$/Problems/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Problems/Companion" />
             <option value="$PROJECT_DIR$/Problems/Compare Latin letters" />
             <option value="$PROJECT_DIR$/Problems/Compression algorithm" />
             <option value="$PROJECT_DIR$/Problems/Concatenate 3 strings with separator" />
