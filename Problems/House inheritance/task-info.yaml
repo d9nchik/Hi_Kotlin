@@ -1,0 +1,25 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun main() {
+        val rooms = readLine()!!
+        val price = readLine()!!
+        val house = House(rooms, price)
+        println(totalPrice(house))
+    }
+
+    class House(val rooms: Int, val price: Int) { }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7775
+status: Failed
+feedback:
+  message: |-
+    [+] Test #1. OK
+    [ ] Test #2. Wrong answer
+    [+] Test #3. OK
+
+    2 of 3 test(s) passed.
+  time: Fri, 07 Aug 2020 13:00:19 UTC
+record: -1
