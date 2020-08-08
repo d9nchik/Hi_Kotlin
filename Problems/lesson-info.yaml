@@ -103,3 +103,4 @@ content:
 - equals() check
 - toString() modification
 - Fix a bug
+- Check a code
