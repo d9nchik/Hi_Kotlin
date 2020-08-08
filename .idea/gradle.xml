@@ -74,11 +74,13 @@
             <option value="$PROJECT_DIR$/Problems/Job" />
             <option value="$PROJECT_DIR$/Problems/Just checking" />
             <option value="$PROJECT_DIR$/Problems/Kotlin x5" />
+            <option value="$PROJECT_DIR$/Problems/Latte" />
             <option value="$PROJECT_DIR$/Problems/Line length" />
             <option value="$PROJECT_DIR$/Problems/Max" />
             <option value="$PROJECT_DIR$/Problems/Max of four numbers" />
             <option value="$PROJECT_DIR$/Problems/Most common" />
             <option value="$PROJECT_DIR$/Problems/N-th symbol" />
+            <option value="$PROJECT_DIR$/Problems/Number of cups" />
             <option value="$PROJECT_DIR$/Problems/Number squared" />
             <option value="$PROJECT_DIR$/Problems/Parse url" />
             <option value="$PROJECT_DIR$/Problems/Perimeter" />
@@ -104,9 +106,11 @@
             <option value="$PROJECT_DIR$/Problems/URL" />
             <option value="$PROJECT_DIR$/Problems/Uncomment a line" />
             <option value="$PROJECT_DIR$/Problems/Unique characters" />
+            <option value="$PROJECT_DIR$/Problems/User Information" />
             <option value="$PROJECT_DIR$/Problems/Volume of a cube" />
             <option value="$PROJECT_DIR$/Problems/Within a range" />
             <option value="$PROJECT_DIR$/Problems/Within both ranges" />
+            <option value="$PROJECT_DIR$/Problems/copy() usage" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
