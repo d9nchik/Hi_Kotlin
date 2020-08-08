@@ -100,3 +100,6 @@ content:
 - Latte
 - User Information
 - copy() usage
+- equals() check
+- toString() modification
+- Fix a bug

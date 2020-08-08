@@ -49,6 +49,7 @@
             <option value="$PROJECT_DIR$/Problems/First digit" />
             <option value="$PROJECT_DIR$/Problems/First predicate" />
             <option value="$PROJECT_DIR$/Problems/First, second, third" />
+            <option value="$PROJECT_DIR$/Problems/Fix a bug" />
             <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
             <option value="$PROJECT_DIR$/Problems/Fizz Buzz (1)" />
             <option value="$PROJECT_DIR$/Problems/Four numbers" />
@@ -111,6 +112,8 @@
             <option value="$PROJECT_DIR$/Problems/Within a range" />
             <option value="$PROJECT_DIR$/Problems/Within both ranges" />
             <option value="$PROJECT_DIR$/Problems/copy() usage" />
+            <option value="$PROJECT_DIR$/Problems/equals() check" />
+            <option value="$PROJECT_DIR$/Problems/toString() modification" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
